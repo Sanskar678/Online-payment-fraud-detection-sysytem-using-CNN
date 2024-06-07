@@ -176,26 +176,9 @@ There are 11 features and 6362620 entries in this dataset.
 
 ![Line](https://github.com/Avdhesh-Varshney/WebMasterLog/assets/114330097/4b78510f-a941-45f8-a9d5-80ed0705e847)
 
-<div align="center">
-
-### :zap: **PROJECT CREATOR & ADMIN**
-
-  <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Avdhesh-Varshney">
-        <img src="https://github.com/Avdhesh-Varshney/CPMasterLog/assets/114330097/0b13fac7-e59d-40be-ac14-b76a28174e85" width=185px height=175px />
-      </a></br> 
-      <h4 style="color:red;"><a href="https://github.com/Avdhesh-Varshney">Avdhesh Varshney</a></h4>
-      <a href="https://www.linkedin.com/in/avdhesh-varshney-5314a4233/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-  </tr>
-  </table>
-</div>
 
 
-![Line](https://github.com/Avdhesh-Varshney/WebMasterLog/assets/114330097/4b78510f-a941-45f8-a9d5-80ed0705e847)
+
 
 <div align="center">
   <h3>Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; this repository!</h3>
